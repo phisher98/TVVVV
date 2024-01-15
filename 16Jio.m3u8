@@ -93,6 +93,8 @@ https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
 https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Sony Sab SD
 http://xtv.ooo:8080/live/lucky1/123456/356050.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="467433" group-title="Sony LIV 2",Sony entertainment HD
+https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",The q
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqwatcho-ono/playlist.m3u8
 #EXTINF:0 tvg-id="karusel" group-title="Entertainment",DD National

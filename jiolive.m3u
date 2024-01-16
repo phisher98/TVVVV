@@ -44,7 +44,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD 
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN NEWS 18 
@@ -167,10 +167,6 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa 
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network 

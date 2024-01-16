@@ -21,6 +21,9 @@ http://jiotv.its-nayeemparvez.ml:3500/getm3u8/167/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies-@RRIPTV",Sony Max HD 
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/476/master.m3u8
 
+#EXTINF:1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png" group-title="Movies-@RRIPTV",& Pictures HD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies-@RRIPTV",Zee Cinema HD 
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/165/master.m3u8

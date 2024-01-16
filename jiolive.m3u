@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
+#EXTINF:-1 tvg-name="Colors HD" tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8

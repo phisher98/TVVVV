@@ -40,8 +40,6 @@ http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="Movies" ,IN: Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies",Bflix Movies 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1266/master.m3u8
 
 
 

@@ -34,14 +34,12 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="Movies" ,IN: Star Gold FHD TATA
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="Movies" ,Star Gold FHD TATA
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="Movies" ,IN: Star Gold 2 FHD TATA
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="Movies" ,Star Gold 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="Movies" ,IN: Zee Cinema 2 FHD TATA
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="Movies" ,Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-
 
 #Sports
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD 
@@ -62,7 +60,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24 
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="News" ,IN: Aaj Tak FHD TATA
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="News" ,Aaj Tak FHD TATA
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://w7.pngwing.com/pngs/672/933/png-transparent-india-today-television-channel-living-media-india-television-text-rectangle.png" group-title="NEWS ",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -81,7 +79,7 @@ https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment",Discovery Channel Hindi 
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet Hindi 
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+http://195.26.87.217/live.ts?channelId=177&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="Infotainment" ,IN: Nat Geo Hindi TATA
 http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iconape.com/wp-content/files/yc/301701/png/301701.png" group-title="Infotainment",Discovery Science Hindi
@@ -91,16 +89,7 @@ https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 #Music
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music",7X Music 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1871/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/250/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9X Tashan 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/732/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9x Jhakaas 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/441/master.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music",mh1 (Music) 
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/742/master.m3u8
+
 
 #Devotional
 #EXTINF:-1 tvg-id="" tvg-name="IN: Aastha Bhajan" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png" group-title="Devotional" ,IN: Aastha Bhajan TATA

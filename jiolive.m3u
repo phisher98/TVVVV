@@ -51,8 +51,7 @@ https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24 
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="News" ,IN: Aaj Tak FHD TATA
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd
-
+http://195.26.87.217/live.ts?channelId=144&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 #Kids

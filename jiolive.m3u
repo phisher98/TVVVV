@@ -46,6 +46,10 @@ http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png" group-title="Sports  ",Star Sports  1 Hindi HD
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1,tvg-id="701" group-title="Sports" tvg-language="Hindi" tvg-logo="https://static.epg.best/cn/StarSports 1.cn.png", Star Sports Select 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/16619
 
 #News
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India 

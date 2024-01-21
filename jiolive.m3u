@@ -84,7 +84,7 @@ https://sports247.eu.org/api/m3u8.php?ch=177
 #Kids
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
 https://sports247.eu.org/api/m3u8.php?ch=816
-#EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="KIDS" ,Pogo Hindi
+#EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS" ,Pogo Hindi
 https://sports247.eu.org/api/m3u8.php?ch=559
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8

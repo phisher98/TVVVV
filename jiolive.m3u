@@ -8,7 +8,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:1 tvg-name="And TV HD" tvg-language="Hindi" tvg-id="472" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD 
-https://sports247.eu.org/api/m3u8.php?ch=2024
+https://sports247.eu.org/api/m3u8.php?ch=472
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 

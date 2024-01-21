@@ -102,7 +102,7 @@ https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 
 
 #Music
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="All",9XM 
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
 https://sports247.eu.org/api/m3u8.php?ch=587
 #EXTINF:-1 tvg-id="" tvg-name="MDTV" tvg-link="" tvg-logo="" group-title="Music" ,IN: MDTV
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8

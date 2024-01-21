@@ -24,9 +24,9 @@ https://sports247.eu.org/api/m3u8.php?ch=167
 #Movies
 #EXTINF:-1 tvg-name="Sony Max HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="All",And Pictures HD 
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
 https://sports247.eu.org/api/m3u8.php?ch=185
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="All",Zee Cinema HD 
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
 https://sports247.eu.org/api/m3u8.php?ch=165
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony MAX2 
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
@@ -57,7 +57,7 @@ http://195.26.87.217/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://sports247.eu.org/api/m3u8.php?ch=155
 #EXTINF:1 tvg-name="Sony Ten 1 HD " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD 
 https://sports247.eu.org/api/m3u8.php?ch=162
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="All",Sony Ten 3 HD Hindi 
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD Hindi 
 https://sports247.eu.org/api/m3u8.php?ch=892
 
 

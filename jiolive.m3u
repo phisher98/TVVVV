@@ -74,7 +74,7 @@ https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak FHD" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News" ,Aaj Tak FHD TATA
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://w7.pngwing.com/pngs/672/933/png-transparent-india-today-television-channel-living-media-india-television-text-rectangle.png" group-title="NEWS ",INDIA TODAY
+#EXTINF:0 tvg-id="ext" tvg-logo="https://w7.pngwing.com/pngs/672/933/png-transparent-india-today-television-channel-living-media-india-television-text-rectangle.png" group-title="News ",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:1 tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India 
 https://sports247.eu.org/api/m3u8.php?ch=177

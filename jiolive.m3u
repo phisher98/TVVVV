@@ -38,7 +38,8 @@ http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies" ,Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
+https://sports247.eu.org/api/m3u8.php?ch=1477
 #EXTINF:1 tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies 
 https://sports247.eu.org/api/m3u8.php?ch=182
 
@@ -56,6 +57,8 @@ http://195.26.87.217/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://sports247.eu.org/api/m3u8.php?ch=155
 #EXTINF:1 tvg-name="Sony Ten 1 HD " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD 
 https://sports247.eu.org/api/m3u8.php?ch=162
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="All",Sony Ten 3 HD Hindi 
+https://sports247.eu.org/api/m3u8.php?ch=892
 
 
 
@@ -90,6 +93,10 @@ https://sports247.eu.org/api/m3u8.php?ch=559
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
 https://sports247.eu.org/api/m3u8.php?ch=545
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English 
+https://sports247.eu.org/api/m3u8.php?ch=1079
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+ 
+https://sports247.eu.org/api/m3u8.php?ch=1226
 
 
 #Infotainment
@@ -116,6 +123,8 @@ https://sports247.eu.org/api/m3u8.php?ch=587
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music 
 https://sports247.eu.org/api/m3u8.php?ch=183
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD 
+https://sports247.eu.org/api/m3u8.php?ch=753
 
 
 #Devotional

@@ -83,11 +83,13 @@ https://sports247.eu.org/api/m3u8.php?ch=177
 
 #Kids
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="KIDS" ,KID: Pogo Hindi TATA
-http://195.26.87.217/live.ts?channelId=256&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://sports247.eu.org/api/m3u8.php?ch=816
+#EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="KIDS" ,Pogo Hindi
+https://sports247.eu.org/api/m3u8.php?ch=559
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
+https://sports247.eu.org/api/m3u8.php?ch=545
 
 
 #Infotainment
@@ -99,6 +101,8 @@ http://195.26.87.217/live.ts?channelId=177&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iconape.com/wp-content/files/yc/301701/png/301701.png" group-title="Infotainment",Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi 
+https://sports247.eu.org/api/m3u8.php?ch=578
 
 
 #Music

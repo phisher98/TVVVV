@@ -59,6 +59,8 @@ https://sports247.eu.org/api/m3u8.php?ch=155
 https://sports247.eu.org/api/m3u8.php?ch=162
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD Hindi 
 https://sports247.eu.org/api/m3u8.php?ch=892
+#EXTINF:1 tvg-logo="" group-title="Sports",Star Sports HD
+http://195.26.87.217/live.ts?channelId=102479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 

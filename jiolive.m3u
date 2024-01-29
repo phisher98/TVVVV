@@ -2,7 +2,7 @@
 #Entertainment
 
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
-https://sports247.eu.org/api/m3u8.php?ch=144
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
@@ -41,7 +41,7 @@ http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies" ,Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
-https://sports247.eu.org/api/m3u8.php?ch=1477
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies 
 https://sports247.eu.org/api/m3u8.php?ch=182
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="All",Zee Bollywood
@@ -55,8 +55,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 1 Hindi
-http://195.26.87.217/live.ts?channelId=295&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 18 English
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi." tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 1 Hindi.
 http://195.26.87.217/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-name="Sony Ten 5 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
@@ -124,6 +124,8 @@ https://sports247.eu.org/api/app/live.php?id=146&e=.m3u8
 https://sports247.eu.org/api/m3u8.php?ch=286
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World Englih
 https://sports247.eu.org/api/m3u8.php?ch=463
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi 
+https://sports247.eu.org/api/app/strmm.php?cid=578&id=History_18_Hindi_MOB-audio_98835_eng=98800-video=2906400.m3u8
 
 
 #Music

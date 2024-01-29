@@ -8,7 +8,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:1 tvg-name="And TV HD" tvg-language="Hindi" tvg-id="472" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD 
-https://sports247.eu.org/api/m3u8.php?ch=472
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 
@@ -18,16 +18,18 @@ http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="Entertainment" ,IN: Star Bharat FHD
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 
-https://sports247.eu.org/api/m3u8.php?ch=167
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",Zee Anmol 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 
 
 #Movies
 #EXTINF:-1 tvg-name="Sony Max HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
-https://sports247.eu.org/api/m3u8.php?ch=185
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
-https://sports247.eu.org/api/m3u8.php?ch=165
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies",Sony MAX2 
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
@@ -42,6 +44,10 @@ http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://sports247.eu.org/api/m3u8.php?ch=1477
 #EXTINF:1 tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies 
 https://sports247.eu.org/api/m3u8.php?ch=182
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="All",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="All",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
 
 #Sports
@@ -113,7 +119,7 @@ http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-id="ext" tvg-logo="https://iconape.com/wp-content/files/yc/301701/png/301701.png" group-title="Infotainment",Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi 
-https://sports247.eu.org/api/m3u8.php?ch=578
+https://sports247.eu.org/api/app/live.php?id=146&e=.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment",Animal Planet HD World English
 https://sports247.eu.org/api/m3u8.php?ch=286
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World Englih

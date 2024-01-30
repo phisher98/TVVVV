@@ -1,6 +1,6 @@
 {
     "name": "HindiProviders",
-    "description": "LikeDev Repository",
+    "description": "HindiProviders Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/plugins.json"

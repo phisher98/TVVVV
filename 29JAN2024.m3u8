@@ -96,9 +96,9 @@ https://sports247.eu.org/api/app/live.php?id=177&e=.m3u8
 
 #Kids
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
-https://sports247.eu.org/api/app/live.php?id=816&e=.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS" ,Pogo Hindi
-https://sports247.eu.org/api/app/live.php?id=559&e=.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
@@ -141,9 +141,9 @@ https://sports247.eu.org/api/app/live.php?id=753&e=.m3u8
 
 #Devotional
 #EXTINF:1 tvg-name="Aastha" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional",Aastha 
-https://sports247.eu.org/api/app/live.php?id=175&e=.m3u8
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8
 #EXTINF:1 tvg-name="Aastha Bhajan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan 
-https://sports247.eu.org/api/app/live.php?id=594&e=.m3u8
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
 
 #All 
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="All",Colors HD Test

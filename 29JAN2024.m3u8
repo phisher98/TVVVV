@@ -34,21 +34,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold FHD TATA
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg",Star Gold SELECT HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies" ,Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies 
 https://sports247.eu.org/api/app/live.php?id=182&e=.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="All",Zee Bollywood
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies",Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="All",Zee Action
+#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies",Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-
+#EXTINF:1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20231011T013441SQUARE.png_20231011013442.png" group-title="Movies",Hollywood Desi
+https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
 
 #Sports
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD 

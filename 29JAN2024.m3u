@@ -136,11 +136,11 @@ https://sports247.eu.org/api/app/strmm.php?cid=578&id=History_18_Hindi_MOB-audio
 
 #Music
 #EXTINF:1 tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
-https://sports247.eu.org/api/app/live.php?id=587&e=.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDTV" tvg-link="" tvg-logo="https://logowik.com/content/uploads/images/mtv5246.jpg" group-title="Music" ,MTV
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music 
-https://sports247.eu.org/api/app/live.php?id=183&e=.m3u8
+http://183.89.246.119:8881/play/a08o/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 

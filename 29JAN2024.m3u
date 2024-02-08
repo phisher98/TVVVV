@@ -59,9 +59,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
 
 #Sports
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 18 English
+#EXTINF:1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 18 English
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi." tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 1 Hindi.
 http://195.26.87.217/live.ts?channelId=49569&uid=7435&deviceMac=00:1A:79:51:4B:3A

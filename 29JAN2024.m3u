@@ -89,6 +89,8 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:1 tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India 
 https://sports247.eu.org/api/app/live.php?id=177&e=.m3u8
+#EXTINF:1 tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 
@@ -139,6 +141,8 @@ http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2020/01/9xjalwa.jpg" group-title="Music",9X Jalwa 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
+#EXTINF:1 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2020/01/musicindia1.jpg" group-title="Music",Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 #Devotional

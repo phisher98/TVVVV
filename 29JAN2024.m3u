@@ -60,8 +60,10 @@ https://i.mjh.nz/SamsungTVPlus/INBC43000071R.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 18 English
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Star Sports 1 Hindi." tvg-link="" tvg-logo="https://mhdtvsports.me/wp-content/uploads/2023/07/khel.webp" group-title="Sports" ,Star Sports 1 Hindi.
+#EXTINF:1 tvg-id="" tvg-name="Star Sports 1 Khel Hindi." tvg-link="" tvg-logo="https://mhdtvsports.me/wp-content/uploads/2023/07/khel.webp" group-title="Sports" ,Star Sports 1 Khel Hindi.
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Star Sports 1 Hindi." tvg-link="" tvg-logo="https://mhdtvsports.me/wp-content/uploads/2023/07/khel.webp" group-title="Sports" ,Star Sports 1 Hindi.
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD Hindi 
 https://sports247.eu.org/api/app/live.php?id=892&e=.m3u8
 
@@ -132,7 +134,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/
 #EXTINF:1 tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music 
 http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
 
 #Devotional

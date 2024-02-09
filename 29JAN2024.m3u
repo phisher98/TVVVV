@@ -40,9 +40,6 @@ http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies" ,Zee Cinema 2 FHD TATA
 http://195.26.87.217/live.ts?channelId=213&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Colors Cineplex HD 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhit HD
 #EXTINF:1 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2024/01/themoviesclub.webp" group-title="Movies",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 

@@ -106,7 +106,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
-https://sports247.eu.org/api/app/live.php?id=545&e=.m3u8
+https://teachublive.link/M3U/m3u8.php?ch=545&e=.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English 
 https://sports247.eu.org/api/app/live.php?id=1079&e=.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+ 

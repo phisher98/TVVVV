@@ -1,11 +1,5 @@
 #EXTM3U
 
-#IPL
-#EXTINF:1 tvg-logo="https://i.ibb.co/tXyr42P/Screenshot-2024-04-10-191111.png" group-title="IPL",IPL Hindi 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1110424/master.m3u8
-#EXTINF:1 tvg-logo="https://i.ibb.co/tXyr42P/Screenshot-2024-04-10-191111.png" group-title="IPL",IPL Haryanvi 4K
-https://prod-ent-live-gm.jiocinema.com/out/v1/1472bd73a6094d0e9e30cdfd615225a2/master.m3u8
-
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=144&e=.m3u8

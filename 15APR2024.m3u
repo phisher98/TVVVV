@@ -16,7 +16,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:1 tvg-name="And TV HD" tvg-language="Hindi" tvg-id="472" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD 
-https://filmzilla.co.in/jiotv/app/livedb3441ce9e18946f72e40b81338d338279d5eeea0f3147928c85e1cb536f77721a29874cb22d32864065d72c122bec0757145e300aa549d0345b2d76e1ac909fb9e9807243a0f51d5ca67218896b09d0/472/And_TV_HD/index.m3u8
+https://filmzilla.co.in/jiotv/app/livec1ca15d2c950b2ab34d53d5e6e9118721db15af76a45eb8b17b9b8c7f33e6dbc27ef2aa888493397e3b262297b70967be99055ae5c736ff6b1ffbb38a9cc86ea04902f21e36d9d52955b48885ddcca07/472/And_TV_HD/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-link="" tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/12/CP/XN/EJ/123987063/star-plus-channel-advertising.jpg" group-title="Entertainment" ,IN: Star Plus FHD TATA
@@ -35,9 +35,9 @@ https://i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8
 
 #Movies
 #EXTINF:-1 tvg-name="Sony Max HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+https://filmzilla.co.in/jiotv/app/live3958e0a67778d3b29ddab455df9232adfeea84c719a36c93127117294f27653fe73f76c5e00744a170ab618097ec192c59946b349f7951d081616f83b3b5dd1daeed459e8f452be3e001647f5087c92c/476/Sony_Max_HD/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
-https://filmzilla.co.in/jiotv/app/live8d19ab1657b62063b42a13a932a3536e205084927976d6b48e14a8413af26c9ed35c5a84d7f669609dff47a7e16affaff8fd98fc72f325f51879fea4e638335988f41f9dcb5c32bff5bd43dfdc17fb00/185/And_Pictures_HD/index.m3u8
+https://filmzilla.co.in/jiotv/app/livec555a0233366bd378dd23a8ef185532fc32f1a8c8907fcc1d831be9f6ec3c6d36ef1cd0405bc3931ffa2a30d16f52382a3d47d913685b43edc355c0cd15f03ea678bafa926952626c448f8d30240f054/185/And_Pictures_HD/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
 https://filmzilla.co.in/jiotv/app/live92f70bf9ec1ff526c3103e4a3231dad56d8a174b8ffc3dcb65c1226993a94a9f8749a92583a54deea8b165b1b4357a848948877a531f74b3714618e32e44567e98d0f8541bf872e962143c938975497d/165/Zee_Cinema_HD/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 

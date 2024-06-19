@@ -10,7 +10,7 @@ http://103.131.214.129:9985/stream/channelid/934045218.ts
 
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
-https://madplay.live/hls/jiotv/stream.php?id=165&e=.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
@@ -142,11 +142,11 @@ https://sports247.eu.org/api/app/strmm.php?cid=578&id=History_18_Hindi_MOB-audio
 #EXTINF:1 tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDTV" tvg-link="" tvg-logo="https://logowik.com/content/uploads/images/mtv5246.jpg" group-title="Music" ,MTV
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:1 tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music 
 http://195.26.87.217/live.ts?channelId=153&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD 
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
 #EXTINF:1 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2020/01/9xjalwa.jpg" group-title="Music",9X Jalwa 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9X Jhakaas 

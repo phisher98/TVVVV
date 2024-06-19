@@ -7,6 +7,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #EXTINF:1 tvg-logo="https://nowsports.co.in/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Special",Star Sports Hindi
 http://103.131.214.129:9985/stream/channelid/934045218.ts
+#EXTINF:1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/07/Star-Sports-Logo.jpg" group-title="Special" key="oG9Gm/L5vcPCutFmZIgjOw" keyid="+0R64soRXr2QwAyfTuJUoA",Star Sports Hindi
+http://103.131.214.129:9985/stream/channelid/934045218.ts
 #EXTINF:1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro24_germany_vs_hungary_19june_live_landsape_thumb_sponsors.jpg" group-title="Special",UEFA Euro 2024
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 

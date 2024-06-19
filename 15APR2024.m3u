@@ -1,8 +1,10 @@
 #EXTM3U
 
 #A Special Added Streams
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/phisher98/TVVVV/Trash/ind_vs_sa-promo-carousel-1718201950363.webp" group-title="Special Added Streams",Jio Cinema Live
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/phisher98/TVVVV/Trash/ind_vs_sa-promo-carousel-1718201950363.webp" group-title="Special",Jio Cinema Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc_eng_indsawomens_m1_190624/master.m3u8
+#EXTINF:1 tvg-logo="https://assets-global.website-files.com/60a75d8226f3295ecacf9e33/61440fd7ef3c0a9eee8d83d8_614194cf41288a26a6a2df85_channel-refresh.jpeg" group-title="Special" key="zYTtE2sMxx+KuM1NT2ouTA" keyid="A8Lgry+BWfnwzptdvIZfEA",Astra
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 

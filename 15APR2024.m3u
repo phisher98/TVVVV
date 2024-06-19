@@ -39,7 +39,7 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
 https://filmzilla.co.in/jiotv/app/live8d19ab1657b62063b42a13a932a3536e205084927976d6b48e14a8413af26c9ed35c5a84d7f669609dff47a7e16affaff8fd98fc72f325f51879fea4e638335988f41f9dcb5c32bff5bd43dfdc17fb00/185/And_Pictures_HD/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
-http://94.154.156.130:8080/zeecinema/index.m3u8
+https://filmzilla.co.in/jiotv/app/live92f70bf9ec1ff526c3103e4a3231dad56d8a174b8ffc3dcb65c1226993a94a9f8749a92583a54deea8b165b1b4357a848948877a531f74b3714618e32e44567e98d0f8541bf872e962143c938975497d/165/Zee_Cinema_HD/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
 https://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=415&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold HD

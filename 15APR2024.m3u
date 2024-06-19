@@ -1,5 +1,9 @@
 #EXTM3U
 
+#A Special Added Streams
+#EXTINF:1 tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/ind_vs_sa-promo-carousel-1718201950363.jpg" group-title="Special Added Streams",Jio Cinema Live
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc_eng_indsawomens_m1_190624/master.m3u8
+
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://madplay.live/hls/jiotv/stream.php?id=165&e=.m3u8

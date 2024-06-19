@@ -6,7 +6,7 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc
 #EXTINF:1 tvg-logo="https://assets-global.website-files.com/60a75d8226f3295ecacf9e33/61440fd7ef3c0a9eee8d83d8_614194cf41288a26a6a2df85_channel-refresh.jpeg" group-title="Special" key="zYTtE2sMxx+KuM1NT2ouTA" keyid="A8Lgry+BWfnwzptdvIZfEA",Astra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #EXTINF:1 tvg-logo="https://nowsports.co.in/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Special",Star Sports Hindi
-https://rips.in/stream/ch4/index.m3u8
+http://103.131.214.129:9985/stream/channelid/934045218.ts
 
 #Entertainment
 #EXTINF:1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment" key="t2m+TLVWToEZZzZf04mkBQ" keyid="fubz4pNkVaSJ0E98QYc8Zg",ANDTV TATA

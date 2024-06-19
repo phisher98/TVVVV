@@ -7,6 +7,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #EXTINF:1 tvg-logo="https://nowsports.co.in/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Special",Star Sports Hindi
 http://103.131.214.129:9985/stream/channelid/934045218.ts
+#EXTINF:1 tvg-logo="https://nowsports.co.in/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Special",Portugal vs Czech Republic
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
@@ -39,7 +41,7 @@ https://filmzilla.co.in/jiotv/app/live3958e0a67778d3b29ddab455df9232adfeea84c719
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
 https://filmzilla.co.in/jiotv/app/livee5efce2431532df6e59da086e72c73b668ab6b4a18bbe70345fe7b11748546e6895217f4709335a62fd070c6b5fb64f52218eed4b22827545dd2c909417a9b258362d441693607ac25e9f025c5625062/185/And_Pictures_HD/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
-https://filmzilla.co.in/jiotv/app/live92f70bf9ec1ff526c3103e4a3231dad56d8a174b8ffc3dcb65c1226993a94a9f8749a92583a54deea8b165b1b4357a848948877a531f74b3714618e32e44567e98d0f8541bf872e962143c938975497d/165/Zee_Cinema_HD/index.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
 https://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=415&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold HD

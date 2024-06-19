@@ -9,8 +9,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 http://103.131.214.129:9985/stream/channelid/934045218.ts
 
 #Entertainment
-#EXTINF:1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment" key="t2m+TLVWToEZZzZf04mkBQ" keyid="fubz4pNkVaSJ0E98QYc8Zg",ANDTV TATA
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd?begin=20240613T084545&end=20240621T084545
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://madplay.live/hls/jiotv/stream.php?id=165&e=.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 
@@ -41,7 +39,7 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD 
 https://filmzilla.co.in/jiotv/app/live8d19ab1657b62063b42a13a932a3536e205084927976d6b48e14a8413af26c9ed35c5a84d7f669609dff47a7e16affaff8fd98fc72f325f51879fea4e638335988f41f9dcb5c32bff5bd43dfdc17fb00/185/And_Pictures_HD/index.m3u8
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD 
-https://filmzilla.co.in/jiotv/app/live61a3912d1ef6ba1b375cad0ed1458b946300f79b766b26bfbc06590ef4eea41019c56b26988fed393a12fb2ddfa9ebfa6af12c48055b16a8d2062d196b5c2cc3ca0abf62ca0441dec94e0c6895a78f5b/165/Zee_Cinema_HD/index.m3u8
+http://94.154.156.130:8080/zeecinema/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema 
 https://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=415&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-link="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-title="Movies" ,Star Gold HD

@@ -7,6 +7,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #Entertainment
+#EXTINF:1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment" key="t2m+TLVWToEZZzZf04mkBQ" keyid="fubz4pNkVaSJ0E98QYc8Zg",ANDTV TATA
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd?begin=20240613T084545&end=20240621T084545
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://madplay.live/hls/jiotv/stream.php?id=165&e=.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD 

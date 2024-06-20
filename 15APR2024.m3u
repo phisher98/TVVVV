@@ -1,8 +1,8 @@
 #EXTM3U
 
 #A Special Added Streams
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/phisher98/TVVVV/Trash/ind_vs_sa-promo-carousel-1718201950363.webp" group-title="Special",Jio Cinema Live
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/hd_akamai_androidmob_avc_eng_indsawomens_m1_190624/master.m3u8
+#EXTINF:1 tvg-logo="https://i.postimg.cc/SRLhHQGy/photo-2024-05-18-16-43-58-removebg-preview.png" group-title="Special" key="6wrkwsJKUgcBVEmbsJo2yw" keyid="bajCaNWKD+T/ddKXNZqK1w",IND VS AFG
+https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
 #EXTINF:1 tvg-logo="https://assets-global.website-files.com/60a75d8226f3295ecacf9e33/61440fd7ef3c0a9eee8d83d8_614194cf41288a26a6a2df85_channel-refresh.jpeg" group-title="Special" key="zYTtE2sMxx+KuM1NT2ouTA" keyid="A8Lgry+BWfnwzptdvIZfEA",Astra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #EXTINF:1 tvg-logo="https://nowsports.co.in/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Special",Star Sports Hindi

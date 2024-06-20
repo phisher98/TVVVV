@@ -38,7 +38,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8
 #Movies
 #EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/7/1013/png-transparent-logo-hbo-hd-scalable-graphics-design-blue-angle-text.png" group-title="Movies",HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/7/1013/png-transparent-logo-hbo-hd-scalable-graphics-design-blue-angle-text.png" group-title="Movies",HBO HD
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykhMOniRKo42ZGDIXG99bL_6DkErd4QLKOQ&s" group-title="Movies",HBO HD
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
 https://filmzilla.co.in/jiotv/app/live3958e0a67778d3b29ddab455df9232adfeea84c719a36c93127117294f27653fe73f76c5e00744a170ab618097ec192c59946b349f7951d081616f83b3b5dd1daeed459e8f452be3e001647f5087c92c/476/Sony_Max_HD/index.m3u8

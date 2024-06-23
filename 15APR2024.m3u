@@ -10,6 +10,10 @@ http://103.131.214.129:9985/stream/channelid/934045218.ts
 #EXTINF:1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro24_germany_vs_hungary_19june_live_landsape_thumb_sponsors.jpg" group-title="Special",UEFA Euro 2024
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
+#FM
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" group-title="FM",Non-Stop Hindi
+http://s5.voscast.com:8216/stream
+
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8

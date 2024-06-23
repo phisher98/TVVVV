@@ -13,6 +13,8 @@ https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #FM
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" group-title="FM",Non-Stop Hindi
 http://s5.voscast.com:8216/stream
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/radiocity.jpg" group-title="FM",Radio city
+https://stream-147.zeno.fm/pxc55r5uyc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweGM1NXI1dXljOXV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNXNUhzanZyUW1xWmItekdaeVZTX3ciLCJpYXQiOjE3MTkxNjIwMTIsImV4cCI6MTcxOTE2MjA3Mn0.6QwiDTg63T4M09nq89D_ke_SgjgQnS1wWekAb0Fqotk
 
 #Entertainment
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 

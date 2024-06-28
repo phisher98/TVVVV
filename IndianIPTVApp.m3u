@@ -131,13 +131,13 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,Mohona TV
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
-#EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
+#EXTINF:-1 group-title="YOUTUBE_CHANNELS" tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
 https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
-#EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg",N TV
+#EXTINF:-1 group-title="YOUTUBECHANNELS" tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg",N TV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",R TV]
+#EXTINF:-1 group-title="YOUTUBE_CHANNELS" tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",R TV]
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
-#EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
+#EXTINF:-1 group-title="YOUTUBE_CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 

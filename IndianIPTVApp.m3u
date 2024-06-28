@@ -121,17 +121,6 @@ https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg",Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
-#EXTINF:-1 ,BTV
-http://cdn01.palki.tv/live/BTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",SATV
-http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Boisakhi
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Desh TV
-http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 ,Mohona TV
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",STAR JALSHA HD

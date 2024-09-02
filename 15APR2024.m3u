@@ -1,12 +1,7 @@
 #EXTM3U
 
 #A Special Added Streams
-#EXTINF:1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro24_germany_vs_hungary_19june_live_landsape_thumb_sponsors.jpg" group-title="Special", Sports18 Jio Paris Olympic 2024
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
-#EXTINF:1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro24_germany_vs_hungary_19june_live_landsape_thumb_sponsors.jpg" group-title="Special", Prime Paris Olympic 2024
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:1 tvg-logo="https://images.slivcdn.com/videoasset_images/euro24_germany_vs_hungary_19june_live_landsape_thumb_sponsors.jpg" group-title="Special", IP Paris Olympic 2024
-http://194.26.229.213/ss_euro2024/index.m3u8
+
 #FM
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" group-title="FM",Non-Stop Hindi
 http://s5.voscast.com:8216/stream

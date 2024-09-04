@@ -192,15 +192,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi 
-https://teachublive.link/M3U/m3u8.php?ch=545&e=.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English 
-https://sports247.eu.org/api/app/live.php?id=1079&e=.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids",Nick HD+ 
-https://sports247.eu.org/api/app/live.php?id=1226&e=.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png" group-title="Kids",Disney HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png" group-title="Kids",Disney HD English
 https://yuvraj43.xyz/ss/index.m3u8?id=19741
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mb9Yyk7/image-2024-08-14-161804805.png" group-title="Kids",shinchan 24/7
 https://yuvraj43.xyz/ss/index.m3u8?id=147724

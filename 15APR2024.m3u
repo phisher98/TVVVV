@@ -20,7 +20,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-link="" tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/12/CP/XN/EJ/123987063/star-plus-channel-advertising.jpg" group-title="Entertainment" ,IN: Star Plus FHD TATA
-http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="Entertainment" ,IN: Star Bharat FHD
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:1 tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 

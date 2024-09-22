@@ -151,16 +151,7 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #Sports
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD 
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:1 tvg-id="" tvg-name="SP: Star Sports 1 Hindi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="Sports" ,Star Sports 18 English
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Star Sports 1 Khel Hindi." tvg-link="" tvg-logo="https://mhdtvsports.me/wp-content/uploads/2023/07/khel.webp" group-title="Sports" ,Star Sports 1 Khel Hindi.
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Star Sports 1 Hindi." tvg-link="" tvg-logo="https://mhdtvsports.me/wp-content/uploads/2023/07/khel.webp" group-title="Sports" ,Star Sports 1 Hindi.
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD Hindi 
-https://sports247.eu.org/api/app/live.php?id=892&e=.m3u8
+
 
 
 #News

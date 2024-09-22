@@ -103,6 +103,51 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #SONY
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SonyLiv",SONY SAB HD
+https://live.drmlive-02.workers.dev/sliv/sab.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="SonyLiv",SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLiv",SONY PAL
+https://live.drmlive-02.workers.dev/sliv/pal.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLiv",SONY WAH
+https://live.drmlive-02.workers.dev/sliv/wah.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SonyLiv",SONY MAX
+https://live.drmlive-02.workers.dev/sliv/max.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLiv",SONY MAX HD
+https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",SONY MAX2
+https://live.drmlive-02.workers.dev/sliv/max2.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SonyLiv",SONY TEN 1
+https://live.drmlive-02.workers.dev/sliv/ten1.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SonyLiv",SONY TEN 2
+https://live.drmlive-02.workers.dev/sliv/ten2.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SonyLiv",SONY TEN 3
+https://live.drmlive-02.workers.dev/sliv/ten3.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLiv",SONY TEN 4 
+https://live.drmlive-02.workers.dev/sliv/ten4.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLiv",SONY TEN 5 
+https://live.drmlive-02.workers.dev/sliv/ten5.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLiv",SONY TEN 1 HD
+https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
+https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
+https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLiv",SONY TEN 4 HD
+https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv",SONY TEN 5 HD
+https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SonyLiv",SONY BBC EARTH
+https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SonyLiv",SONY YAY
+https://live.drmlive-02.workers.dev/sliv/yay.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SonyLiv",SONY PIX HD
+https://live.drmlive-02.workers.dev/sliv/pix.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLiv",SONY MARATHI
+https://live.drmlive-02.workers.dev/sliv/marathi.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SonyLiv",SONY AATH 
+https://live.drmlive-02.workers.dev/sliv/aath.m3u8
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv", SET HD
@@ -195,6 +240,14 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 
 #Kids
+#EXTINF:-1 tvg-id="544" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Junior
+https://live.drmlive-02.workers.dev/jc/544.m3u8
+#EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
+https://live.drmlive-02.workers.dev/jc/1226.m3u8
+#EXTINF:-1 tvg-id="1227" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1719554242246.jpg",Nick SD
+https://live.drmlive-02.workers.dev/jc/1227.m3u8
+#EXTINF:-1 tvg-id="815" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
+https://live.drmlive-02.workers.dev/jc/815.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KID: Pogo" tvg-link="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids" ,Pogo Hindi
@@ -205,9 +258,9 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png" group-title="Kids",Disney HD English
 https://yuvraj43.xyz/ss/index.m3u8?id=19741
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mb9Yyk7/image-2024-08-14-161804805.png" group-title="Kids",shinchan 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://rukminim2.flixcart.com/image/850/1000/km3s1ow0/poster/l/r/t/medium-shin-chan-cartoon-wall-poster-for-room-with-gloss-original-imagf2uzkxwzmt8y.jpeg?q=20&crop=false" group-title="Kids",shinchan 24/7
 https://yuvraj43.xyz/ss/index.m3u8?id=147724
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sH2YzRd/image-2024-08-14-161625190.png" group-title="Kids",Doraemon 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.mensxp.com/media/content/2022/Nov/Image-2---Hungama-TV_636272e19a4e9.jpeg?w=900&h=609&cc=1" group-title="Kids",Doraemon 24/7
 https://yuvraj43.xyz/ss/index.m3u8?id=147746
 
 
@@ -269,7 +322,6 @@ https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/c
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8
 #EXTINF:1 tvg-name="Aastha Bhajan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan 
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
-
 
 #TEMP
 #EXTM3U

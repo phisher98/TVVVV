@@ -197,26 +197,17 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #Sports
 
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Tamil
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/hd_akamai_iosmob_avc_tam_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Bengali
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109773/hd_akamai_iosmob_avc_ben_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 English 4K
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_indvsban_011024/master_2160p.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Hindi 4K
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsban_011024/master_2160p.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Kannada
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/hd_akamai_iosmob_avc_kan_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 English
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Hindi
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Odia
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109699/hd_akamai_iosmob_avc_odia_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Bhojpuri
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/hd_akamai_iosmob_avc_bhoj_indvsban_011024/master.m3u8
-#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",Sports18 Telugu
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/hd_akamai_iosmob_avc_tel_indvsban_011024/master.m3u8
+#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",India vs New Zealand 1st Test Day 2 Hindi
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsnz_171024/master.m3u8
+
+#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",India vs New Zealand 1st Test Day 2 Hindi 4K
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_indvsnz_171024/index.m3u8
+
+#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",India vs New Zealand 1st Test Day 2 English
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsnz_171024/master.m3u8
+
+#EXTINF:1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/34.jpg" group-title="Sports",India vs New Zealand 1st Test Day 2 English 4K
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_indvsnz_171024/index.m3u8
 
 
 #News

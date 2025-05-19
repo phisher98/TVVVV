@@ -1,5 +1,8 @@
 {
   "name": "HDHUB4u",
-  "baseUrl": "https://hdhub4u.football",
-  }
+  "baseUrl": "https://hdhub4u.football"
+},
+{
+  "name": "4khdhub",
+  "baseUrl": "https://4khdhub.fans"
 }

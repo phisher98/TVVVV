@@ -1,0 +1,10 @@
+{
+  "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
+  "dst": "WqA-YvVzjly83_POC7g6hBD9Zr4wuEaMKkbHpmcfsxteN1QXonIdRTFSG502LUiJ",
+  "static_path": "wa/56618db0e43085fa7bb872c1d561e8dfcfedef28dd2a5c8b59da0be6bddbc909/aa720919-bed6-579b-bf16-79e2329337fa",
+  "m": "wa/56618db0e43085fa7bb872c1d561e8dfcfedef28dd2a5c8b59da0be6bddbc909/aa720919-bed6-579b-bf16-79e2329337fa",
+  "h": "POST",
+  "key_hex": "908672a31b4feda110b66e3276acc04f3b6b113c3e08517da5a28ce9b1fc0a96",
+  "iv_hex": "9aa761bbc311a7690b6d0aea10df6943",
+  "xor_key": "a74f75151a60fd8729"
+}

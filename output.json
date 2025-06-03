@@ -6,5 +6,6 @@
   "key_hex": "8d0badc4081f89a3342549f3a68f5261a4438bd4e607871054b86116d99506a7",
   "iv_hex": "4ac971b2f09714ed29a9ad50084a3c34",
   "xor_key": "3115d3da3380",
-  "csrf_token": "4gglJgjvVNM6juEW0kEGdFTCf0ze4hYf"
+  "csrf_token": "4gglJgjvVNM6juEW0kEGdFTCf0ze4hYf",
+  "content_types": "application/x-www-form-urlencoded"
 }

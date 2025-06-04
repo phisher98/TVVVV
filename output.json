@@ -1,11 +1,11 @@
 {
   "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
-  "dst": "PfWkLGQ1OY4m5wBTjy7IrngX0vcxERz_2U-i9hqpNDuKJtMo6lVdaeZ3AFSHb8sC",
-  "static_path": "f/1000001283280351/4e814452/cu/vacpuh/42a0e173-fb2d-50b0-bae4-1477e322b432/96966a8d451b1a19fd21afd3a51ade62dfa37d63",
+  "dst": "cWEZ5Y8Khgmlsjon1AIdtDaTRXSJyVBx-3pFq0zML46bCQk2_HiuG9r7UwfeNvPO",
+  "static_path": "fed2b902-62f9-5557-b812-e93750cba39d/1000081778654890/5f734b094d3295169ea5407343f85c529ac37349/acb7b5e26d91236007be3bc43d8346709bca2f621dab200df317adaa64f95267",
   "http_method": "GET",
-  "key_hex": "8d0badc4081f89a3342549f3a68f5261a4438bd4e607871054b86116d99506a7",
-  "iv_hex": "4ac971b2f09714ed29a9ad50084a3c34",
-  "xor_key": "3115d3da3380",
-  "csrf_token": "4gglJgjvVNM6juEW0kEGdFTCf0ze4hYf",
-  "content_types": "application/x-www-form-urlencoded"
+  "key_hex": "ffa2611a11208b7b56b548d18b014cacdd3613fa1a2a126f1e39992f392b9ca9",
+  "iv_hex": "f40786ade89618340fdd2b2ec207f41a",
+  "xor_key": "a9c9cf",
+  "csrf_token": "045NBdNVE6uLAPtsPUplzjbIkv8ZiB36",
+  "content_types": "application/font-woff"
 }

@@ -1,4 +1,3 @@
-https://tmdbapi.supe2372.workers.dev
 https://ancient-violet-1ee6.phisher12.workers.dev
 https://autumn-limit-1fea.phisher53.workers.dev
 https://wispy-bar-8fbe.phisher2.workers.dev

@@ -1,8 +1,0 @@
-{
-    "name": "King",
-    "description": "King Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/Stormunblessed/eng-ext/builds/plugins.json"
-    ]
-  }

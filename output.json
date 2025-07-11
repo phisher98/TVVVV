@@ -1,9 +1,11 @@
 {
   "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
-  "dst": "PpowE6rtqQ9OxFNzg_vLTJmHKi07j45fXubCVecGURsaS1ny8lBWdAD2ZkM3-YhI",
+  "dst": "EbJBfS2U78_1Wsumd9cVeT0QxZCt-lkYaioLhOFR5wAz3Ggr4MpHjXIyqNKnDPv6",
+  "static_path": "a5a5c15e343846028a038d0203d3a0e5c6a9d6f0/a2ca0a1abfbd041500dc5d6e0a49fd9b725a6645fa7262acacc99b78a2f73d45",
   "http_method": "POST",
-  "key_hex": "019d2d4ae4f3187cc20cb846035d66bbfe48e6613981fed8df71522a3ed0f43f",
-  "iv_hex": "93e99076f6216e770dd18c2a20ba2f59",
-  "xor_key": "ee7b23382bb839e9e929",
-  "content_types": "text/plain"
+  "key_hex": "26e3ee52cbe72471d1cbaabc8545857e6a538f329207d0f259220e443dfeec28",
+  "iv_hex": "8831c6a44f2a484b99f0dbe1681028a2",
+  "xor_key": "8835cb7b695b8b50e272",
+  "csrf_token": "6iZ25Qp2IlFoBxQIghISJ8xwKDKBrz5U",
+  "content_types": "application/x-shockwave-flash"
 }

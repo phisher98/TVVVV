@@ -65,8 +65,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1752584238~acl=%2f*~data=hdntl~hmac=f9fc9a243b382bd4dcd190639e7e98dee6c41ae63b0f866de144633ad0692fdf
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1752584238~acl=%2f*~data=hdntl~hmac=f9fc9a243b382bd4dcd190639e7e98dee6c41ae63b0f866de144633ad0692fdf
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1752584238~acl=%2f*~data=hdntl~hmac=f9fc9a243b382bd4dcd190639e7e98dee6c41ae63b0f866de144633ad0692fdf
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1752584238~acl=%2f*~data=hdntl~hmac=f9fc9a243b382bd4dcd190639e7e98dee6c41ae63b0f866de144633ad0692fdf
 #EXTINF:-1 tvg-id="0-9-215" group-title="Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",Zee Punjabi

@@ -8,5 +8,6 @@
   "headers": {
     "Content-Type": "application/json",
     "X-Requested-With": "XMLHttpRequest"
-  }
+  },
+  "axez_path": "AxEZ"
 }

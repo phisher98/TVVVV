@@ -1,9 +1,4 @@
 #EXTM3U
-
-
-
-//Sony
-
 #EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY",SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONY",SONY SAB HD

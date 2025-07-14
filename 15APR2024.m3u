@@ -1531,7 +1531,7 @@ http://103.168.18.83:80/zan/app/ts_live_544.m3u8
 http://103.168.18.83:80/zan/app/ts_live_545.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="TS-JioTV Kids",Nick Tamil
 http://103.168.18.83:80/zan/app/ts_live_546.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="TS-JioTV Kids",Nickelodeon Jr.
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="TS-JioTV Kids",Nickelodeon Jr
 http://103.168.18.83:80/zan/app/ts_live_548.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="TS-JioTV Kids",Discovery Kids Tamil
 http://103.168.18.83:80/zan/app/ts_live_550.m3u8

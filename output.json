@@ -1,11 +1,9 @@
 {
   "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
-  "dst": "8vVtEdjnahow753kSqbsYRzJumlC6Bf41g-xULp9TXeAHP0i_Z2OyQIrWGDFNKcM",
-  "static_path": "5548c0068e21e67426c580499dac16b523c783c43bdd8b8cb01539f16a07e49a/32e13bb296c0a94106d0d2282f08fae08f398a52/e",
-  "http_method": "POST",
-  "key_hex": "0407f1adde203d8cde237d6c47cfc4e4c3ae9455f994d03d053831130c1acacf",
-  "iv_hex": "c9bfee6fc20a7667d2eb378106aab1b9",
-  "xor_key": "53f6d7cfeb12",
-  "csrf_token": "gEXKPefD9UL3w4jom8ryDLwBgl0TKseF",
-  "content_types": "video/mp4"
+  "dst": "o1McR65UfAwXjaIgsBN34eDlLn9Omv8GHPhKY2b7FqEu_xiJTptZrzQWCd0yS-Vk",
+  "static_path": "a10c4121c890dc38a4b54ef9335df874f5fcd226/f983250c-01ac-5568-b92c-bf30a38d0ec4/y/APA91xWZ64WNNlfHHS8lJKKmskmv1izwL9A1ttAr3xu41SbajP3mV-8SuCu35NQNPEIqfxJLWKDxyCZLPrGiLiJkbcaekl6m2zV1jC40l0uAe86iLR9jlsU1eHoI_qpwf4xYEBLO4tyQmbmigEf8733vwKeoWUt9-ZRv7N4Q-MZUwjuPD3bJMiD/ff7994741e01cbd79d52ec7beef93ec955d07cbc54d5d3f6d6b427e4a8cb8427/07b5c8c8",
+  "http_method": "GET",
+  "key_hex": "7750d2b82be68b9810ebbc752607a99fd31d2ccd97bead9a83b3069244cdfa29",
+  "iv_hex": "390612f30b47f9692046f4ed3d4dc8e4",
+  "xor_key": "27606fcecf3f1b"
 }

@@ -1,11 +1,9 @@
 {
   "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
-  "dst": "dHlmM-1V67GZuzoiw03f_rSgktRcB4b9DhPWALpCsEFOnUQ8yKXaINjJ2Ye5qvTx",
-  "static_path": "po/d0fe26d4",
+  "dst": "LP3F7GHThkbcmBMne4xj6vJXu5oKsUI8RZ19wD0tzQYg2SWVE_NyqAlfrOiapCd-",
   "http_method": "GET",
-  "key_hex": "8e2f64693e6c7c6fcf41a7b8661614beaa6f4b73a2ffddeb9fcf2c3c65dc14d3",
-  "iv_hex": "e0e63b0180b6e2863b72cae86800c2ce",
-  "xor_key": "c971e00d9bb093",
-  "csrf_token": "ihdTiOunxvzwSzlAc6yQ011yS5sEoZ4i",
-  "content_types": "application/xml"
+  "key_hex": "c941903738fd081b3d42bee6b999fc6a645e6f9a79718185c736f9e54b10e27d",
+  "iv_hex": "4aa33bb0575f296c88b5fa2506b79a33",
+  "xor_key": "6cca2db4b28ae369",
+  "content_types": "application/x-font-ttf"
 }

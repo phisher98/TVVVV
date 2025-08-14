@@ -1,15 +1,11 @@
 {
-  "static_path": "8011da2784761fc40ac5b3d9ffb6562c124ed5ca/ni/etlagmo/b/5d427d47-a6f8-5a94-878b-382d85e863ee/c91394ea8a28601ae2718f2b548d9e91535ef725f363be0d011065e3b4611e72/1000084419912790/67e0420a",
-  "key_hex": "5aa7329ee949901b0f5059836b7949e329e8de17aa47a40783e51befd6747634",
-  "iv_hex": "b137ab832c1c137124d9977572db3456",
-  "xor_key": "25a053ff3760d94591",
-  "method": "POST",
-  "content_type": "text/plain",
-  "headers": {
-    "Content-Type": "text/plain",
-    "X-Requested-With": "XMLHttpRequest"
-  },
-  "sub_path": "4Zmitbs0MEEg5Q",
-  "apisubpath": "4n5q",
-  "X-CSRF-Token": "Y7DMqDbqlMjTDusCDO09jzaw6PJxLbTe"
+  "static_path": null,
+  "key_hex": "d9ff31a40dd415210c298a9d113a1963cf9c5253229a93709928788f12041f22",
+  "iv_hex": "e591e8af30972f444b5b3b206c60c598",
+  "xor_key": null,
+  "method": null,
+  "content_type": null,
+  "headers": null,
+  "sub_path": null,
+  "apisubpath": null
 }

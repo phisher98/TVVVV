@@ -1,5 +1,5 @@
 {
   "proxies": [
-    "https://orange-voice-abcf.phisher16.workers.dev",
+    "https://orange-voice-abcf.phisher16.workers.dev"
   ]
 }

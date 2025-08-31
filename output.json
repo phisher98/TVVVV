@@ -1,9 +1,10 @@
 {
   "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
-  "dst": "E2wpG7Zf_Ft0Am5qCoxKvYUezc9XjbHNgO6W8LSuaiksPVM4InJDlByQhd-r3TR1",
+  "dst": "8YtWobvNRx5kInyF39POQcMdVspZT6hqLSzfU4wDE7J_auj1Hg2C-rmKX0leAGiB",
+  "static_path": "jiw/1000026703982506/021d3694-f66c-53a3-8a18-3312bf83dc83/d1471be0ad7c0c1e18faf46e2fd530f3125b401b658fb48aafa9b68ce5c2caf6",
   "http_method": "POST",
-  "key_hex": "2ee7f2d15f5899bf76c264b64a450cdbda1b14cf067cd97197bcff08874bdcae",
-  "iv_hex": "881b9bc33ff718dd59fcf4ac7217e7e2",
-  "xor_key": "faae4cdbc38becaff147",
-  "content_types": "application/gzip"
+  "key_hex": "ad0547086a4af01be0bc6d32fbfbd775fc6268cbbd5956c41d16f86dd6150564",
+  "iv_hex": "038b6329f7c923be06539d29a8ea218d",
+  "xor_key": "d1a780288a3630",
+  "content_types": "text/css"
 }

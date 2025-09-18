@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>MegaUp Embed</title>
+  <base href="https://animekai.to/">
   <style>
     html, body {
       margin: 0;
@@ -31,7 +32,11 @@
   <script>
     // Get ?url=... parameter
     const params = new URLSearchParams(window.location.search);
-    const url = params.get("url") || "https://www.google.com/";
+    let url = params.get("url");
+
+    // Always add autostart=true
+    const hasQuery = url.includes("?");
+    url += (hasQuery ? "&" : "?") + "autostart=true";
 
     // Apply to iframe
     document.getElementById("player").src = url;

@@ -33,11 +33,7 @@
     // Get ?url=... parameter
     const params = new URLSearchParams(window.location.search);
     let url = params.get("url");
-
-    // Always add autostart=true
-    const hasQuery = url.includes("?");
-    url += (hasQuery ? "&" : "?") + "autostart=true";
-
+    
     // Apply to iframe
     document.getElementById("player").src = url;
   </script>

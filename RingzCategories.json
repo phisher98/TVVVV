@@ -1,0 +1,6 @@
+[
+  { "url": "Nwm.json", "title": "Movies" },
+  { "url": "Nws.json", "title": "Web Series" },
+  { "url": "lstanime.json", "title": "Anime" },
+  { "url": "desihub.json", "title": "Adult (18+)", "adult": true }
+]

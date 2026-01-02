@@ -1,0 +1,25 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "jarFileSize": 122789,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 28179,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "HDHUB",
+        "jarUrl": "",
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "url": "https://github.com/phisher98/TVVVV/raw/refs/heads/main/HDhub4u.cs3",
+        "name": "HDHUB"
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Streamplay.png",
         "jarFileSize": 122789,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -16,10 +16,30 @@
             "Cartoon"
         ],
         "version": 16,
-        "internalName": "HDHUB",
+        "internalName": "StreamPlay",
         "jarUrl": "",
-        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "description": "Multi API",
         "url": "https://github.com/phisher98/TVVVV/raw/refs/heads/main/HDhub4u.cs3",
-        "name": "HDHUB"
-    }
+        "name": "StreamPlay"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 41509,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "MovieBoxProvider",
+        "description": "Multi Language Movies and Series Provider",
+        "url": "https://github.com/phisher98/TVVVV/raw/refs/heads/main/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },
 ]

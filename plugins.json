@@ -1,9 +1,0 @@
-{
-    "name": "Phisher Repo",
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
-    "description": "Phisher Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/repo.json"
-    ]
-}

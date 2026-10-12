@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
   "monthName": "October 2026",
-  "targetAmount": 200,
-  "currentAmount": 134.37,
-  "supportersCount": 14,
+  "targetAmount": 200.0,
+  "currentAmount": 129.37,
+  "supportersCount": 13,
   "currency": "$",
-  "updatedAt": "2026-10-12T00:10:28.065Z"
+  "updatedAt": "2026-10-12T03:48:00.000Z"
 }
